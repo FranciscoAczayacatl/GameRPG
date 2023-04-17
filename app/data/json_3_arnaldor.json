@@ -1,0 +1,10 @@
+{
+  "player1":{
+    "moviminetos": ["DSD", "S"],
+    "golpes": ["P", ""]
+  },
+  "player2":{
+    "moviminetos": ["", "ASA", "DA", "AAA", "", "SA"],
+    "golpes": ["p", "", "P", "K", "K", "K"]
+  }
+}
